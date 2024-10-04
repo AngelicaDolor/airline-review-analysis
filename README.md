@@ -32,6 +32,8 @@ View Tableau Dashboard [here](https://public.tableau.com/views/BritishAirlineAir
 
 ## Insights Deep Dive
 
+![Airline Analysis](https://github.com/AngelicaDolor/airline-review-analysis/blob/main/airline-analysis.png)
+
 ### Category 1: **Overall Customer Rating Trends**
 - **Insight 1**: Average overall customer ratings showed a consistent decline after 2020, dropping from **4.8 to 4.2**.
   - **Supporting Analysis**: The ratings were stable from 2016 to 2019 but saw a drop due to post-pandemic service adjustments.
